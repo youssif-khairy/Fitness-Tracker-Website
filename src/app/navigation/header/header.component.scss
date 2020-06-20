@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    color: white;
+    &:hover,&:active{
+        color: teal;
+    }
+}
+ul{
+    list-style: none;
+}
